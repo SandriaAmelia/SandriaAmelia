@@ -10,10 +10,10 @@ During college, I actively engaged in organizational and committee activities, h
 
 ### Tech Stack
   <a href="#"><img align="left" alt="Python" title="Python" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" /></a>
-  <a href="https://nodejs.org/"><img align="left" alt="R" title="R" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
-  <a href="https://reactjs.org/"><img align="left" alt="MySQL" title="MySQL" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
-  <a href="https://hapi.dev/"><img align="left" alt="Tableau" title="Tableau" width="21px" src="https://avatars.githubusercontent.com/u/3774533?s=200&v=4" /></a>
-  <a href="https://nextjs.org/"><img align="left" alt="Microsoft Office" title="Microsoft Office" width="21px" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" /></a>
+  <a href="https://www.r-project.org/"><img align="left" alt="R" title="R" width="21px" src="https://www.r-project.org/logo/Rlogo.png" /></a>
+  <a href="https://www.mysql.com/"><img align="left" alt="MySQL" title="MySQL" width="21px" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png" /></a>
+  <a href="https://www.tableau.com/"><img align="left" alt="Tableau" title="Tableau" width="21px" src="https://www.tableau.com/sites/default/files/pages/logo_tableau_citrus_2x.png
+  <a href="https://www.microsoft.com/en-us/microsoft-365/word"><img align="left" alt="Microsoft Word" title="Microsoft Word" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Microsoft_Word_2013_logo.svg/1200px-Microsoft_Word_2013_logo.svg.png" /></a>
   <br>
   <br>
 
