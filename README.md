@@ -13,6 +13,7 @@ During college, I actively engaged in organizational and committee activities, h
   <a href="https://www.r-project.org/"><img align="left" alt="R" title="R" width="21px" src="https://www.r-project.org/logo/Rlogo.png" /></a>
   <a href="https://www.mysql.com/"><img align="left" alt="MySQL" title="MySQL" width="21px" src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" /></a>
   <a href="https://www.tableau.com/"><img align="left" alt="Tableau" title="Tableau" width="21px" src="https://logowik.com/content/uploads/images/tableau-software.jpg" /></a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel"><img align="left" alt="Microsoft Excel" title="Microsoft Excel" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/1200px-Microsoft_Excel_2013-2019_logo.svg.png" /></a>
   <br>
   <br>
 
